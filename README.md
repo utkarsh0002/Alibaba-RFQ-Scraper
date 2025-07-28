@@ -17,8 +17,9 @@ A Python automation project that scrapes **Request for Quotation (RFQ)** data fr
    ```bash
    git clone https://github.com/utkarsh0002/alibaba-rfq-scraper.git
    cd alibaba-rfq-scraper
-2️. Install dependencies
+2. Install dependencies 
    ```bash
-      pip install -r requirements.txt
-
-
+   pip install -r requirements.txt
+3. Run the script 
+   ```bash
+   python alibaba_scraper.py
