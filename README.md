@@ -19,5 +19,7 @@ A Python automation project that scrapes **Request for Quotation (RFQ)** data fr
    cd alibaba-rfq-scraper
 2️. Install dependencies
    ```bash
-   pip install -r requirements.txt
-   
+      pip install -r requirements.txt
+
+python alibaba_scraper.py
+
